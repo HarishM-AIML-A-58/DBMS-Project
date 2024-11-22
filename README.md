@@ -70,12 +70,3 @@ This system leverages facial recognition to mark student attendance. It integrat
 
 ## Author 👨‍💻
 Harish M.
-
-"""
-
-# Save to file
-readme_file_path = "/mnt/data/attendance_management_system_readme.txt"
-with open(readme_file_path, "w") as file:
-    file.write(readme_content)
-
-readme_file_path
