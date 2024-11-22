@@ -1,4 +1,6 @@
 
+# Attendance Management System 📚💻
+
 ## Overview 🌟
 This system leverages facial recognition to mark student attendance. It integrates with a MySQL database to store attendance data, course information, and student details. The system allows for both automatic and manual attendance marking, with an easy-to-use GUI for admin interaction.
 
