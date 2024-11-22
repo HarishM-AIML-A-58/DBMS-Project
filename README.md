@@ -1,6 +1,3 @@
-# Creating the README content and saving it as a text file for download
-readme_content = """
-# Attendance Management System 📚💻
 
 ## Overview 🌟
 This system leverages facial recognition to mark student attendance. It integrates with a MySQL database to store attendance data, course information, and student details. The system allows for both automatic and manual attendance marking, with an easy-to-use GUI for admin interaction.
